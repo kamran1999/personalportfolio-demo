@@ -1,4 +1,4 @@
 # personalportfolio-demo
 This is my first Git Repository.
 <br>
-Author - Kamran khan
+Author - Kamran khan (kkhan)
